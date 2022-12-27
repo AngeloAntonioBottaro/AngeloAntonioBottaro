@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Angelo Antonio Bottaro
 - 👀 I’m interested in desktop projects
 - 💻 I’m currently working as delphi developer
+- 📚 MVC pattern; Interface-based programming; Clean code; SOLID;
 - 📫 How to reach me angeloantoniobottaro@gmail.com
 
 <!---
