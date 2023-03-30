@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Angelo Antonio Bottaro
-- 👀 I’m interested in desktop projects
-- 💻 I’m currently working as delphi developer
+- 👋 Hi, I’m Angelo Antonio Bottaro;
+- 👀 I’m preferably interested in desktop projects, but others are ok too;
+- 💻 I’m currently working as fullstack delphi developer;
 - 📚 MVC pattern; Interface-based programming; fluent interface; Clean code; SOLID; 
-- 📫 How to reach me angeloantoniobottaro@gmail.com
+- 💬 Fluency in Portuguese and english;
+- 📫 Reach me by e-mail: angeloantoniobottaro@gmail.com or whatsapp: (43) 9 9631-0834;
 
 <!---
 AngeloAntonioBottaro/AngeloAntonioBottaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
